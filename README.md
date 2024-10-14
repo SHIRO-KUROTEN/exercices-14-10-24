@@ -1,2 +1,2 @@
 # exercices-14-10-24
-Exercices à cloner puis résoudre
+Exercicese à récupérer dans votre espace github puis résoudre
