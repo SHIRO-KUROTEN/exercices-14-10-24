@@ -4,3 +4,7 @@
 # Demandez à l'utilisateur de deviner le nombre jusqu'à ce qu'il le trouve.
 # Utilisez une boucle while pour permettre plusieurs tentatives et donnez 
 # des indices ("trop grand" ou "trop petit")
+
+
+
+# fait sur les execercie donner sur feuille#
