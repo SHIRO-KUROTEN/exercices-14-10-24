@@ -7,14 +7,17 @@
 
 x= list(input(" entrer un mot :"))
 y=0
-
+z=x[:]
 for a in (x): 
-    for i in (x):
+    for i in (z):
         if i == a :
             y= y + 1
+            
         else:
-            y = y +0  
+            y = y +0    
+       
     
     print("il y a ",y ,a," dans les mots")
     y =0
+    
     
