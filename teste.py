@@ -1,3 +1,4 @@
-nb1 = 1 
-nb2 = 2 
-print(nb1 + nb2)
+x=4
+
+for i in range (x) : 
+    print(i)
