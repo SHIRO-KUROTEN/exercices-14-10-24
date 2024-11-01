@@ -4,3 +4,6 @@
 #  Convertissez cette saisie en une liste d'entiers (utilisez .split() et map(int, ...)).
 #  Utilisez une boucle for pour trouver le nombre maximum dans la liste, sans utiliser la fonction max().
 #  Affichez le plus grand nombre.
+
+
+#fait sur un autre projet#

@@ -1,4 +1,4 @@
-x=4
-
-for i in range (x) : 
-    print(i)
+x=list(input("mot : "))
+for i in x :
+    print(x.count(i),i)
+    x.remove(i)
