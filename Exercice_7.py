@@ -7,17 +7,20 @@
 
 x= list(input(" entrer un mot :"))
 y=0
-z=x[:]
-for a in (x): 
-    for i in (z):
+z=x[:] #ser a rien dans se code mais permet de copier une liste #
+z1=list("abcdefghijklmnopqrstuvwxyz")
+for a in (z1): 
+    for i in (x):
         if i == a :
             y= y + 1
             
         else:
             y = y +0    
        
-    
-    print("il y a ",y ,a," dans les mots")
+    if y == 0 :
+        print("", end = "")
+    else:
+        print("il y a ",y ,a," dans les mots")
     y =0
     
     
